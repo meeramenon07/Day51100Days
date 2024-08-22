@@ -1,0 +1,1 @@
+[['movies visit', '29/8', 'low'], ['audition to attend', '20', 'high'], ['jogging event', '25/9', 'low'], ['dace studio to clean up', '24/7', 'medium'], ['book writing', '15', 'low'], ['workshop', '12', 'hihh'], ['jogging class', '7', 'low'], ['singing classes', '3aug', 'high'], ['coffee ', '1aug', 'medium']]
